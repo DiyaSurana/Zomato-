@@ -1,6 +1,5 @@
 # Zomato Data Analysis
-![Image](https://github.com/user-attachments/assets/13c3cdb3-b6f5-4cf4-9e44-a1bbb021681f)
-  
+                       ![Image](https://github.com/user-attachments/assets/f13d5ef9-acb0-45f0-9c15-92e0634aa8c9)
   ## Problem Statement
 - Zomato is facing a decline in customer engagement and  rising order cancellations. Customers are leaving due to  issues such as delayed deliveries, incorrect orders, and poor service.  Cancellations could be caused by unreliable customer support, inaccurate delivery estimates, or restaurant-related problems like unavailable menu items or slow food preparation. These 
 issues are affecting user trust and satisfaction, leading to decreased loyalty and higher churn rates.

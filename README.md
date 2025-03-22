@@ -1,10 +1,10 @@
 # Zomato-
-🍽️ Zomato Data Analysis
-🚩 Problem Statement
-The challenge is to analyze the Zomato dataset to identify trends, preferences, and areas of improvement that can enhance the overall user experience on the platform.
-Specifically, the goal is to understand how different factors such as:
+## Zomato Data Analysis
 
-🍲 Cuisine
+# Problem Statement:
+     - The challenge is to analyze the Zomato dataset to identify trends, preferences, and areas of improvement that can enhance the overall user experience on the platform.
+Specifically, the goal is to understand how different factors such as:
+        -  Cuisine
 
 📍 Location
 
